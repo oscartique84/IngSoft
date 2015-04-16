@@ -1,5 +1,5 @@
 ﻿'contiene la clase Form1, funcion de inicio de juego, funciones que permite realizar comparaciones  
-
+'prueba'
 Public Class Form1
     'formulario que contiene 9 cuadros de imagen, los cuales se desplazan segun movimientos realizados por los 
     'usuarios y con condiciones especificas las cuales estan dadas en las funciones de cada duadro de imagen 
